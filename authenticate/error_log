@@ -1,0 +1,5 @@
+[17-Sep-2015 14:59:11 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home2/vythou8/public_html/diplomatiki/authenticate/login_db.php on line 7
+[27-Oct-2015 01:11:17 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home2/vythou8/public_html/diplomatiki/authenticate/login_db.php on line 7
+[27-Oct-2015 01:12:44 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home2/vythou8/public_html/diplomatiki/authenticate/login_db.php on line 7
+[27-Oct-2015 01:12:54 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home2/vythou8/public_html/diplomatiki/authenticate/login_db.php on line 7
+[27-Oct-2015 01:16:33 America/Chicago] PHP Fatal error:  Call to undefined function session_register() in /home2/vythou8/public_html/diplomatiki/authenticate/login_db.php on line 7
